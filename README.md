@@ -13,3 +13,4 @@ Breast Cancer Prediction Dataset from Kaggle.
 - seaborn
 - numpy
 - Jupyter Notebook
+- uv
